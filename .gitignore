@@ -1,0 +1,55 @@
+# Virtual environment
+my_env/
+
+# Python bytecode
+__pycache__/
+
+# Logs
+*.log
+
+# Database
+db.sqlite3
+
+# Secret key
+*.secret
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__
+
+# Local development settings
+local_settings.py
+
+# IDE settings
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore the pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
